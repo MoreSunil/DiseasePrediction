@@ -23,6 +23,10 @@ Bacterial Blight disease or not.
 
 
 ## How To Upload the Image
-
-Here user has to upload the image to be checked.
-
+Here user has to upload the query image to be tested
+![UploadQueryImage](https://user-images.githubusercontent.com/64839565/150172777-1bcbf5d5-2afd-4ccc-bb5c-77231b5f62a7.png)
+## Result For Uploaded Query Image
+Sample non bacterial blight affected image test result
+![NotAffected](https://user-images.githubusercontent.com/64839565/150173010-615fb09b-eeb4-4cdc-b99d-c8b456e2969a.png)
+Sample bacterial blight affected image test result
+![Affected](https://user-images.githubusercontent.com/64839565/150173089-afbfa11c-7823-4b64-a430-4861bf1fe1c5.png)
