@@ -11,6 +11,13 @@ I have created the training dataset by taking the advise of agriculture domain e
 
 ![SampleDatasetImages](https://user-images.githubusercontent.com/64839565/150180298-e78d8a32-78cf-4495-816f-27007c415dfd.png)
 
+# Steps To Be Followed To Test Image
+
+1) User will upload the image of Pomegranate fruit by using web based application.
+
+2) Application will show the result for the query image that it is affected by bacterial blight or not. 
+
+
 # Guidelines To User For Test Image Capture
 
  1) Here user will capute the image of Pomegranate by using mobile or camera.
@@ -21,14 +28,7 @@ I have created the training dataset by taking the advise of agriculture domain e
  
  4) Try to capture the more images for the different parts of the farm and test all of them to get the clear idea or exact severity  of the disease.
   
-
-# Steps To Be Followed To Test Image
-
-1) User will upload the image of Pomegranate fruit by using web based application.
-
-2) Application will show the result for the query image that it is affected by bacterial blight or not. 
-
-
+  
 ## How To Upload the Image
 Here user has to upload the query image to be tested
 ![UploadQueryImage](https://user-images.githubusercontent.com/64839565/150172777-1bcbf5d5-2afd-4ccc-bb5c-77231b5f62a7.png)
