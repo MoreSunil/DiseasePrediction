@@ -3,10 +3,15 @@
 
 Bacterial blight on pomegranate is a major disease. Pomegranate bacterial blight has become a very serious threat to pomegranate growers in the country. Bacterial blight in pomegranate leads to deceased yield (nearly by 90 %) and quality of fruits affecting the marketing value of fruits.  This prediction system will do the detection immediately so that early detection will helps the farmer to avoid the loss by some extend. It is not possible to all farmers sometime to do the open eye prediction. Also agriculture domain expert are not available all the time or there charges of the solution will be high.
 
-## Primary Goal
+# Primary Goal
 This helps to farmer to check the pomegranate fruit is affected by Bacterial Blight disease or not.
 
-# Guidelines To Capture The Image
+# Dataset Preparation For Training
+I have created the training dataset by taking the advise of agriculture domain expert so that final system will give more robust results. Here are the few sample of images used for training the system
+
+![SampleDatasetImages](https://user-images.githubusercontent.com/64839565/150180298-e78d8a32-78cf-4495-816f-27007c415dfd.png)
+
+# Guidelines To User For Test Image Capture
 
  1) Here user will capute the image of Pomegranate by using mobile or camera.
 
